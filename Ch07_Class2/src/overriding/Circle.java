@@ -1,0 +1,9 @@
+package overriding;
+
+public class Circle extends Shape{
+	@Override
+	void draw() {
+		
+		System.out.println("circle");
+	}
+}
