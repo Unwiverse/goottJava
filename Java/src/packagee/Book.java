@@ -1,6 +1,6 @@
-package ss;
+package packagee;
 
-public class Claasci {
+public class Book {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
