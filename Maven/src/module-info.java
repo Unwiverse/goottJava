@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Se {
+module Maven {
 }
