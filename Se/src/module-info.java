@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Kin {
+module Se {
 }
