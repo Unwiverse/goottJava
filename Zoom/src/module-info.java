@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Maven {
+module Zoom {
 }
