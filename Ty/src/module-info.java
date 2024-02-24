@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Zoom {
+module Ty {
 }
