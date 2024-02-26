@@ -12,13 +12,6 @@ public class FileIO_123 {
 		int value =0x11223344;
 		outputstream.write(value);
 		
-		try (DataOutputStream dos = new DataOutputStream(new FileOutputStream("C:/test/Extr1.txt"))) {
-            int value1 = 0x11223344;
-            dos.writeInt(value1); // 0x11223344 값이 4바이트로 출력됨
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-		
 	}
 
 }
