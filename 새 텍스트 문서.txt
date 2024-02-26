@@ -20,3 +20,4 @@
 
 
 깃허브 토큰 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
+(깃허브 사용 장소가 바뀔 때마다 새로 생성해줄 것)
