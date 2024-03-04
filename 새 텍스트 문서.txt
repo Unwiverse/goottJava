@@ -11,7 +11,7 @@
 주의하자. 재연결은 SaveFetch와 merge 작업을 하면 된다.
 
 
-
+DB 텍스트 저장하는 법 => sql developer에서 저장 -> 워크스페이스 폴더에서 깃허브로 sql 파일 드래그 -> 커밋 & 저장
 
 
 
@@ -20,3 +20,4 @@
 
 
 깃허브 토큰 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
+(깃허브 사용 장소가 바뀔 때마다 새로 생성해줄 것, commit, push 시 로그인 창이 뜨면 새로 ㄱ)
