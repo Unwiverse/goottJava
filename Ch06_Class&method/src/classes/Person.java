@@ -8,7 +8,7 @@ public class Person {
 	// 멤버메서드
 	void getPersonInfo() {
 		String result = ""; // or null;
-		if(marriage) {
+		if(!marriage) {
 			result = "기혼";
 		} else { 
 			result = "미혼";

@@ -16,7 +16,9 @@ public class Student_02 {
 		
 		//인자 생성자로 객체를 생성하는 방법.
 		Student student2 = new Student(0222221, "세종대왕", "국무낙과", "01090199152", "서울시 중구");
-		student.getStudentInfo();
+		//student.getStudentInfo();
+		student2.getStudentInfo();
+		
 	}
 
 }

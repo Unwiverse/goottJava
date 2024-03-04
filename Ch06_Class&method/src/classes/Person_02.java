@@ -10,6 +10,7 @@ public class Person_02 {
 		person.age = 27;
 		person.marriage = true;
 		person.getPersonInfo();
+		
 	}
 
 }

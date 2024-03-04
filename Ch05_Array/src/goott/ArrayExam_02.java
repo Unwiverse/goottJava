@@ -36,6 +36,7 @@ public class ArrayExam_02 {
 			System.out.println("입력받은 정수: "+score[i]);
 		} 
 		sc.close();
+		
 	}
 
 }

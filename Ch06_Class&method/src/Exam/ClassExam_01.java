@@ -20,6 +20,8 @@ public class ClassExam_01 {
 					MorF = "남자";
 				} else if(gender.equals("female")) {
 					MorF = "여자";
+				} else {
+					System.err.println("성별로 똑바로 입력하세요");
 				}
 				System.out.println("==================");
 				System.out.println("이름: "+name);
