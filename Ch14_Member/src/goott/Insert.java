@@ -21,7 +21,7 @@ public class Insert {
 		
 		String user = "goott";
 		
-		String password = "99229922";
+		String password = "992992";
 		
 		Scanner sc = new Scanner(System.in);
 		

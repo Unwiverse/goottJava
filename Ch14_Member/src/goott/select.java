@@ -25,7 +25,7 @@ public class select {
 			con = DriverManager.getConnection(url, user, password);
 			
 			if(con != null) {
-				System.out.println("오라클 DB와 연결 됐을까?(열린 결말)");
+				System.out.println("오라클 DB와 연결");
 			}
 			// 3단계: DB에 전송할 SQL 문을 작성
 			String sql = "select * from member order by memno desc";
